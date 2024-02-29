@@ -27,6 +27,10 @@ img {
     border-radius: 15%;
 }
 
+a {
+    margin-right: 7px;
+}
+
 @font-face {
     font-family: 'Amatic SC';
     font-style: normal;
