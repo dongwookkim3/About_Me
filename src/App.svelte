@@ -59,7 +59,7 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		height: 60%;
+		height: 60%
 		padding: 20px;
 	}
 
